@@ -1,16 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:EC4899&height=180&section=header&text=Raycca%20Mell&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedora%20Full%20Stack&descAlignY=58&descSize=18" width="100%" alt="Raycca Mell — Desenvolvedora Full Stack" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=640&lines=Java+%2B+Spring+Boot+no+back-end;React+%2B+TypeScript+no+front-end;PostgreSQL+%2B+Flyway+nos+dados;Seguran%C3%A7a+da+informa%C3%A7%C3%A3o+como+diferencial" alt="Java + Spring Boot, React + TypeScript, PostgreSQL + Flyway, Segurança da informação" />
-
-<p>
-  <a href="https://www.linkedin.com/in/rayccamell/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:rayccamell@icloud.com"><img src="https://img.shields.io/badge/E--mail-A855F7?style=for-the-badge&logo=icloud&logoColor=white" alt="E-mail" /></a>
-</p>
-
-</div>
-
 ## Sobre mim
 
 - Desenvolvedora **Full Stack** na GPI Sistemas, construindo um SaaS multi-tenant de gestão de contratos e financeiro
